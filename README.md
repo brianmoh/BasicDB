@@ -12,6 +12,7 @@ A functional and robust database engine.
 
 
 ## Included
+0. Parser
 1. Creating tables
 2. Inserting records
 3. Deleting records
