@@ -1,6 +1,6 @@
 ## BasicDB
 
-A functional and robust database engine
+A functional and robust database engine.
 
 ## Installation
 
