@@ -1,11 +1,12 @@
+## BasicDB
 
-Project Name
-
-TODO: Write a project description
+A functional and robust database engine
 
 ## Installation
 
-TODO: Describe the installation process
+'Typing 'make' compiles all relevant files and also calls flex/bison.'
+'Typing 'make run' runs the executable.'
+'Typing 'make clean' removes executable file.'
 
 ## Usage
 
