@@ -16,7 +16,7 @@ A functional and robust database engine.
 2. Inserting records
 3. Deleting records
 4. Deleting tables
-5. Projecting
+5. Projecting records
 6. All relational and arithmetic operators
 7. Nested Loop Join, Hash Join, Index Join
 8. B-Tree Index and Index Files
