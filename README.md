@@ -19,3 +19,5 @@ A functional and robust database engine
 5. Projecting
 6. All relational and arithmetic operators
 7. Nested Loop Join, Hash Join, Index Join
+8. B-Tree Index and Index Files
+9. Metadata
