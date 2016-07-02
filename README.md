@@ -5,8 +5,11 @@ A functional and robust database engine
 ## Installation
 
 `Typing 'make' compiles all relevant files and also calls flex/bison.`
+
 `Typing 'make run' runs the executable.`
+
 `Typing 'make clean' removes executable file.`
+
 
 ## Included
 1. Creating tables
